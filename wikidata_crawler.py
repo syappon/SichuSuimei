@@ -43,7 +43,7 @@ SPARQL_ENDPOINT = "https://query.wikidata.org/sparql"
 
 # Wikimedia推奨: User-Agentにプロジェクト名と連絡先を含める
 # ★ 自分のメールアドレスに書き換えてください
-USER_AGENT = "ShichusuimeiCrawler/1.0 (https://github.com/your-project; syappon.music@gmail.com)"
+USER_AGENT = "ShichusuimeiCrawler/1.0 (https://github.com/syappon/SichuSuimei; syappon.music@gmail.com)"
 
 # 出力ディレクトリ
 OUTPUT_DIR = Path("wikidata_output")

@@ -1,0 +1,29 @@
+[Unit]
+Description=Wikidata Shichusuimei Crawler
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+# ユーザー名を変更してください（Oracle Cloudのデフォルトは "ubuntu" または "opc"）
+User=ubuntu
+WorkingDirectory=/home/ubuntu/shichusuimei-crawler
+
+# 実行コマンド（--per-occupation で1職業あたりの件数を調整）
+ExecStart=/usr/bin/python3 /home/ubuntu/shichusuimei-crawler/wikidata_crawler_v3.py --per-occupation 50
+
+# SIGTERM でグレースフルシャットダウン
+KillSignal=SIGTERM
+TimeoutStopSec=30
+
+# 異常終了時は60秒後に再起動（チェックポイントから再開）
+Restart=on-failure
+RestartSec=60
+
+# ログをjournaldに流す
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=wikidata-crawler
+
+[Install]
+WantedBy=multi-user.target
