@@ -1,0 +1,3790 @@
+[
+  {
+    "occupation": "politician",
+    "count": 1405
+  },
+  {
+    "occupation": "writer",
+    "count": 575
+  },
+  {
+    "occupation": "painter",
+    "count": 364
+  },
+  {
+    "occupation": "lawyer",
+    "count": 312
+  },
+  {
+    "occupation": "university teacher",
+    "count": 277
+  },
+  {
+    "occupation": "teacher",
+    "count": 250
+  },
+  {
+    "occupation": "physician",
+    "count": 231
+  },
+  {
+    "occupation": "journalist",
+    "count": 229
+  },
+  {
+    "occupation": "architect",
+    "count": 200
+  },
+  {
+    "occupation": "military personnel",
+    "count": 193
+  },
+  {
+    "occupation": "Catholic priest",
+    "count": 183
+  },
+  {
+    "occupation": "businessperson",
+    "count": 180
+  },
+  {
+    "occupation": "composer",
+    "count": 155
+  },
+  {
+    "occupation": "historian",
+    "count": 149
+  },
+  {
+    "occupation": "poet",
+    "count": 145
+  },
+  {
+    "occupation": "jurist",
+    "count": 136
+  },
+  {
+    "occupation": "cricketer",
+    "count": 115
+  },
+  {
+    "occupation": "engineer",
+    "count": 110
+  },
+  {
+    "occupation": "military officer",
+    "count": 108
+  },
+  {
+    "occupation": "judge",
+    "count": 106
+  },
+  {
+    "occupation": "photographer",
+    "count": 104
+  },
+  {
+    "occupation": "translator",
+    "count": 97
+  },
+  {
+    "occupation": "actor",
+    "count": 95
+  },
+  {
+    "occupation": "entrepreneur",
+    "count": 92
+  },
+  {
+    "occupation": "pedagogue",
+    "count": 91
+  },
+  {
+    "occupation": "sculptor",
+    "count": 90
+  },
+  {
+    "occupation": "botanist",
+    "count": 90
+  },
+  {
+    "occupation": "official",
+    "count": 72
+  },
+  {
+    "occupation": "farmer",
+    "count": 71
+  },
+  {
+    "occupation": "diplomat",
+    "count": 70
+  },
+  {
+    "occupation": "Catholic bishop",
+    "count": 68
+  },
+  {
+    "occupation": "secondary school teacher",
+    "count": 65
+  },
+  {
+    "occupation": "chemist",
+    "count": 62
+  },
+  {
+    "occupation": "barrister",
+    "count": 61
+  },
+  {
+    "occupation": "priest",
+    "count": 60
+  },
+  {
+    "occupation": "publisher",
+    "count": 56
+  },
+  {
+    "occupation": "opinion journalist",
+    "count": 55
+  },
+  {
+    "occupation": "opera singer",
+    "count": 53
+  },
+  {
+    "occupation": "merchant",
+    "count": 51
+  },
+  {
+    "occupation": "playwright",
+    "count": 51
+  },
+  {
+    "occupation": "editor",
+    "count": 49
+  },
+  {
+    "occupation": "archaeologist",
+    "count": 49
+  },
+  {
+    "occupation": "philologist",
+    "count": 49
+  },
+  {
+    "occupation": "stage actor",
+    "count": 48
+  },
+  {
+    "occupation": "author",
+    "count": 47
+  },
+  {
+    "occupation": "missionary",
+    "count": 47
+  },
+  {
+    "occupation": "botanical collector",
+    "count": 46
+  },
+  {
+    "occupation": "theologian",
+    "count": 46
+  },
+  {
+    "occupation": "mathematician",
+    "count": 45
+  },
+  {
+    "occupation": "entomologist",
+    "count": 42
+  },
+  {
+    "occupation": "conductor",
+    "count": 42
+  },
+  {
+    "occupation": "librarian",
+    "count": 41
+  },
+  {
+    "occupation": "editing staff",
+    "count": 41
+  },
+  {
+    "occupation": "civil servant",
+    "count": 41
+  },
+  {
+    "occupation": "novelist",
+    "count": 40
+  },
+  {
+    "occupation": "banker",
+    "count": 40
+  },
+  {
+    "occupation": "magistrate",
+    "count": 40
+  },
+  {
+    "occupation": "head teacher",
+    "count": 37
+  },
+  {
+    "occupation": "inventor",
+    "count": 36
+  },
+  {
+    "occupation": "philosopher",
+    "count": 36
+  },
+  {
+    "occupation": "zoologist",
+    "count": 35
+  },
+  {
+    "occupation": "suffragist",
+    "count": 35
+  },
+  {
+    "occupation": "surgeon",
+    "count": 35
+  },
+  {
+    "occupation": "draftsperson",
+    "count": 35
+  },
+  {
+    "occupation": "musician",
+    "count": 34
+  },
+  {
+    "occupation": "illustrator",
+    "count": 34
+  },
+  {
+    "occupation": "geologist",
+    "count": 34
+  },
+  {
+    "occupation": "singer",
+    "count": 33
+  },
+  {
+    "occupation": "educator",
+    "count": 33
+  },
+  {
+    "occupation": "Catholic missionary",
+    "count": 32
+  },
+  {
+    "occupation": "art historian",
+    "count": 32
+  },
+  {
+    "occupation": "archivist",
+    "count": 32
+  },
+  {
+    "occupation": "baseball player",
+    "count": 32
+  },
+  {
+    "occupation": "pianist",
+    "count": 31
+  },
+  {
+    "occupation": "naturalist",
+    "count": 31
+  },
+  {
+    "occupation": "curate",
+    "count": 31
+  },
+  {
+    "occupation": "physicist",
+    "count": 30
+  },
+  {
+    "occupation": "linguist",
+    "count": 30
+  },
+  {
+    "occupation": "explorer",
+    "count": 30
+  },
+  {
+    "occupation": "scientist",
+    "count": 30
+  },
+  {
+    "occupation": "classical philologist",
+    "count": 30
+  },
+  {
+    "occupation": "industrialist",
+    "count": 29
+  },
+  {
+    "occupation": "artist",
+    "count": 29
+  },
+  {
+    "occupation": "economist",
+    "count": 28
+  },
+  {
+    "occupation": "scientific collector",
+    "count": 28
+  },
+  {
+    "occupation": "pastor",
+    "count": 28
+  },
+  {
+    "occupation": "professor",
+    "count": 27
+  },
+  {
+    "occupation": "civil engineer",
+    "count": 26
+  },
+  {
+    "occupation": "organist",
+    "count": 25
+  },
+  {
+    "occupation": "pharmacist",
+    "count": 25
+  },
+  {
+    "occupation": "local historian",
+    "count": 24
+  },
+  {
+    "occupation": "astronomer",
+    "count": 24
+  },
+  {
+    "occupation": "music educator",
+    "count": 24
+  },
+  {
+    "occupation": "anthropologist",
+    "count": 23
+  },
+  {
+    "occupation": "art collector",
+    "count": 23
+  },
+  {
+    "occupation": "association football player",
+    "count": 23
+  },
+  {
+    "occupation": "rugby union player",
+    "count": 23
+  },
+  {
+    "occupation": "printmaker",
+    "count": 22
+  },
+  {
+    "occupation": "director",
+    "count": 21
+  },
+  {
+    "occupation": "agronomist",
+    "count": 21
+  },
+  {
+    "occupation": "naval officer",
+    "count": 20
+  },
+  {
+    "occupation": "trade unionist",
+    "count": 20
+  },
+  {
+    "occupation": "literary critic",
+    "count": 19
+  },
+  {
+    "occupation": "coadjutor",
+    "count": 19
+  },
+  {
+    "occupation": "essayist",
+    "count": 17
+  },
+  {
+    "occupation": "rabbi",
+    "count": 17
+  },
+  {
+    "occupation": "Anglican priest",
+    "count": 17
+  },
+  {
+    "occupation": "soldier",
+    "count": 17
+  },
+  {
+    "occupation": "biographer",
+    "count": 17
+  },
+  {
+    "occupation": "aristocrat",
+    "count": 17
+  },
+  {
+    "occupation": "prose writer",
+    "count": 15
+  },
+  {
+    "occupation": "philanthropist",
+    "count": 15
+  },
+  {
+    "occupation": "cleric",
+    "count": 15
+  },
+  {
+    "occupation": "printer",
+    "count": 15
+  },
+  {
+    "occupation": "biologist",
+    "count": 15
+  },
+  {
+    "occupation": "general contractor",
+    "count": 15
+  },
+  {
+    "occupation": "bookseller",
+    "count": 15
+  },
+  {
+    "occupation": "psychiatrist",
+    "count": 15
+  },
+  {
+    "occupation": "literary historian",
+    "count": 14
+  },
+  {
+    "occupation": "women's rights activist",
+    "count": 14
+  },
+  {
+    "occupation": "ornithologist",
+    "count": 14
+  },
+  {
+    "occupation": "Christian minister",
+    "count": 14
+  },
+  {
+    "occupation": "school teacher",
+    "count": 14
+  },
+  {
+    "occupation": "paleontologist",
+    "count": 14
+  },
+  {
+    "occupation": "local politician",
+    "count": 14
+  },
+  {
+    "occupation": "librettist",
+    "count": 13
+  },
+  {
+    "occupation": "newspaper editor",
+    "count": 13
+  },
+  {
+    "occupation": "visual artist",
+    "count": 12
+  },
+  {
+    "occupation": "etcher",
+    "count": 12
+  },
+  {
+    "occupation": "military leader",
+    "count": 12
+  },
+  {
+    "occupation": "engraver",
+    "count": 12
+  },
+  {
+    "occupation": "non-fiction writer",
+    "count": 12
+  },
+  {
+    "occupation": "numismatist",
+    "count": 12
+  },
+  {
+    "occupation": "anatomist",
+    "count": 11
+  },
+  {
+    "occupation": "literary scholar",
+    "count": 11
+  },
+  {
+    "occupation": "revolutionary",
+    "count": 11
+  },
+  {
+    "occupation": "Oberlehrer",
+    "count": 11
+  },
+  {
+    "occupation": "folklorist",
+    "count": 11
+  },
+  {
+    "occupation": "ethnographer",
+    "count": 11
+  },
+  {
+    "occupation": "surveyor",
+    "count": 11
+  },
+  {
+    "occupation": "musicologist",
+    "count": 11
+  },
+  {
+    "occupation": "choir director",
+    "count": 11
+  },
+  {
+    "occupation": "mineralogist",
+    "count": 11
+  },
+  {
+    "occupation": "watercolorist",
+    "count": 11
+  },
+  {
+    "occupation": "pathologist",
+    "count": 11
+  },
+  {
+    "occupation": "Eastern Orthodox priest",
+    "count": 11
+  },
+  {
+    "occupation": "graphic artist",
+    "count": 10
+  },
+  {
+    "occupation": "land owner",
+    "count": 10
+  },
+  {
+    "occupation": "ethnologist",
+    "count": 10
+  },
+  {
+    "occupation": "collector",
+    "count": 10
+  },
+  {
+    "occupation": "business executive",
+    "count": 10
+  },
+  {
+    "occupation": "ophthalmologist",
+    "count": 10
+  },
+  {
+    "occupation": "factory owner",
+    "count": 10
+  },
+  {
+    "occupation": "clerk",
+    "count": 10
+  },
+  {
+    "occupation": "lithographer",
+    "count": 10
+  },
+  {
+    "occupation": "curator",
+    "count": 10
+  },
+  {
+    "occupation": "gynecologist",
+    "count": 10
+  },
+  {
+    "occupation": "romanist",
+    "count": 10
+  },
+  {
+    "occupation": "children's writer",
+    "count": 9
+  },
+  {
+    "occupation": "mechanical engineer",
+    "count": 9
+  },
+  {
+    "occupation": "sailor",
+    "count": 9
+  },
+  {
+    "occupation": "geographer",
+    "count": 9
+  },
+  {
+    "occupation": "theatrical director",
+    "count": 9
+  },
+  {
+    "occupation": "sociologist",
+    "count": 9
+  },
+  {
+    "occupation": "orientalist",
+    "count": 9
+  },
+  {
+    "occupation": "winegrower",
+    "count": 9
+  },
+  {
+    "occupation": "mycologist",
+    "count": 9
+  },
+  {
+    "occupation": "railway engineer",
+    "count": 9
+  },
+  {
+    "occupation": "activist",
+    "count": 9
+  },
+  {
+    "occupation": "hotel manager",
+    "count": 9
+  },
+  {
+    "occupation": "lexicographer",
+    "count": 9
+  },
+  {
+    "occupation": "landscape painter",
+    "count": 8
+  },
+  {
+    "occupation": "patron of the arts",
+    "count": 8
+  },
+  {
+    "occupation": "cartographer",
+    "count": 8
+  },
+  {
+    "occupation": "bibliographer",
+    "count": 8
+  },
+  {
+    "occupation": "critic",
+    "count": 8
+  },
+  {
+    "occupation": "organ builder",
+    "count": 8
+  },
+  {
+    "occupation": "veterinarian",
+    "count": 8
+  },
+  {
+    "occupation": "parson",
+    "count": 8
+  },
+  {
+    "occupation": "gardener",
+    "count": 8
+  },
+  {
+    "occupation": "physiologist",
+    "count": 8
+  },
+  {
+    "occupation": "academic",
+    "count": 8
+  },
+  {
+    "occupation": "master builder",
+    "count": 8
+  },
+  {
+    "occupation": "chess player",
+    "count": 7
+  },
+  {
+    "occupation": "music critic",
+    "count": 7
+  },
+  {
+    "occupation": "medievalist",
+    "count": 7
+  },
+  {
+    "occupation": "notary",
+    "count": 7
+  },
+  {
+    "occupation": "Catholic theologian",
+    "count": 7
+  },
+  {
+    "occupation": "temperance worker",
+    "count": 7
+  },
+  {
+    "occupation": "police officer",
+    "count": 7
+  },
+  {
+    "occupation": "Esperantist",
+    "count": 7
+  },
+  {
+    "occupation": "socialite",
+    "count": 7
+  },
+  {
+    "occupation": "lepidopterist",
+    "count": 7
+  },
+  {
+    "occupation": "presbyter",
+    "count": 7
+  },
+  {
+    "occupation": "classical scholar",
+    "count": 7
+  },
+  {
+    "occupation": "neurologist",
+    "count": 7
+  },
+  {
+    "occupation": "school teacher in the Swedish school system",
+    "count": 7
+  },
+  {
+    "occupation": "prehistorian",
+    "count": 7
+  },
+  {
+    "occupation": "theatre manager",
+    "count": 7
+  },
+  {
+    "occupation": "forester",
+    "count": 7
+  },
+  {
+    "occupation": "prosecutor",
+    "count": 7
+  },
+  {
+    "occupation": "medalist",
+    "count": 7
+  },
+  {
+    "occupation": "canon",
+    "count": 7
+  },
+  {
+    "occupation": "vicar",
+    "count": 7
+  },
+  {
+    "occupation": "chaplain",
+    "count": 7
+  },
+  {
+    "occupation": "violinist",
+    "count": 7
+  },
+  {
+    "occupation": "autobiographer",
+    "count": 7
+  },
+  {
+    "occupation": "Beamter",
+    "count": 7
+  },
+  {
+    "occupation": "genre painter",
+    "count": 7
+  },
+  {
+    "occupation": "cellist",
+    "count": 6
+  },
+  {
+    "occupation": "meteorologist",
+    "count": 6
+  },
+  {
+    "occupation": "ship-owner",
+    "count": 6
+  },
+  {
+    "occupation": "dancer",
+    "count": 6
+  },
+  {
+    "occupation": "genealogist",
+    "count": 6
+  },
+  {
+    "occupation": "almoner",
+    "count": 6
+  },
+  {
+    "occupation": "bibliophile",
+    "count": 6
+  },
+  {
+    "occupation": "hymnwriter",
+    "count": 6
+  },
+  {
+    "occupation": "cultural worker",
+    "count": 6
+  },
+  {
+    "occupation": "technician",
+    "count": 6
+  },
+  {
+    "occupation": "Lutheran pastor",
+    "count": 6
+  },
+  {
+    "occupation": "restorer",
+    "count": 6
+  },
+  {
+    "occupation": "monk",
+    "count": 6
+  },
+  {
+    "occupation": "psychologist",
+    "count": 6
+  },
+  {
+    "occupation": "screenwriter",
+    "count": 6
+  },
+  {
+    "occupation": "science fiction writer",
+    "count": 6
+  },
+  {
+    "occupation": "spiritual director",
+    "count": 6
+  },
+  {
+    "occupation": "statistician",
+    "count": 6
+  },
+  {
+    "occupation": "suffragette",
+    "count": 6
+  },
+  {
+    "occupation": "film actor",
+    "count": 6
+  },
+  {
+    "occupation": "mayor",
+    "count": 6
+  },
+  {
+    "occupation": "Catholic deacon",
+    "count": 6
+  },
+  {
+    "occupation": "germanist",
+    "count": 6
+  },
+  {
+    "occupation": "brewer",
+    "count": 6
+  },
+  {
+    "occupation": "military physician",
+    "count": 6
+  },
+  {
+    "occupation": "preacher",
+    "count": 6
+  },
+  {
+    "occupation": "malacologist",
+    "count": 6
+  },
+  {
+    "occupation": "traveler",
+    "count": 6
+  },
+  {
+    "occupation": "horticulturist",
+    "count": 6
+  },
+  {
+    "occupation": "travel writer",
+    "count": 5
+  },
+  {
+    "occupation": "nurse",
+    "count": 5
+  },
+  {
+    "occupation": "shopkeeper",
+    "count": 5
+  },
+  {
+    "occupation": "songwriter",
+    "count": 5
+  },
+  {
+    "occupation": "mining engineer",
+    "count": 5
+  },
+  {
+    "occupation": "voice teacher",
+    "count": 5
+  },
+  {
+    "occupation": "metallurgist",
+    "count": 5
+  },
+  {
+    "occupation": "electrical engineer",
+    "count": 5
+  },
+  {
+    "occupation": "housewife",
+    "count": 5
+  },
+  {
+    "occupation": "Q16611574",
+    "count": 5
+  },
+  {
+    "occupation": "ship captain",
+    "count": 5
+  },
+  {
+    "occupation": "scientific illustrator",
+    "count": 5
+  },
+  {
+    "occupation": "musical instrument maker",
+    "count": 5
+  },
+  {
+    "occupation": "typographer",
+    "count": 5
+  },
+  {
+    "occupation": "piano maker",
+    "count": 5
+  },
+  {
+    "occupation": "film director",
+    "count": 5
+  },
+  {
+    "occupation": "academic administrator",
+    "count": 5
+  },
+  {
+    "occupation": "large estate owner",
+    "count": 5
+  },
+  {
+    "occupation": "army officer",
+    "count": 5
+  },
+  {
+    "occupation": "church historian",
+    "count": 5
+  },
+  {
+    "occupation": "music teacher",
+    "count": 5
+  },
+  {
+    "occupation": "wholesaler",
+    "count": 5
+  },
+  {
+    "occupation": "financier",
+    "count": 5
+  },
+  {
+    "occupation": "railway executive",
+    "count": 5
+  },
+  {
+    "occupation": "manager",
+    "count": 5
+  },
+  {
+    "occupation": "Indologist",
+    "count": 5
+  },
+  {
+    "occupation": "regional historian",
+    "count": 5
+  },
+  {
+    "occupation": "mountaineer",
+    "count": 5
+  },
+  {
+    "occupation": "short story writer",
+    "count": 5
+  },
+  {
+    "occupation": "primary school teacher",
+    "count": 5
+  },
+  {
+    "occupation": "athlete",
+    "count": 5
+  },
+  {
+    "occupation": "dermatologist",
+    "count": 5
+  },
+  {
+    "occupation": "accountant",
+    "count": 5
+  },
+  {
+    "occupation": "coroner",
+    "count": 5
+  },
+  {
+    "occupation": "Latin Catholic priest",
+    "count": 5
+  },
+  {
+    "occupation": "philatelist",
+    "count": 5
+  },
+  {
+    "occupation": "ballet dancer",
+    "count": 4
+  },
+  {
+    "occupation": "diarist",
+    "count": 4
+  },
+  {
+    "occupation": "executive",
+    "count": 4
+  },
+  {
+    "occupation": "chief officer",
+    "count": 4
+  },
+  {
+    "occupation": "timber merchant",
+    "count": 4
+  },
+  {
+    "occupation": "antiquarian",
+    "count": 4
+  },
+  {
+    "occupation": "manufacturer",
+    "count": 4
+  },
+  {
+    "occupation": "classical archaeologist",
+    "count": 4
+  },
+  {
+    "occupation": "statesperson",
+    "count": 4
+  },
+  {
+    "occupation": "public figure",
+    "count": 4
+  },
+  {
+    "occupation": "church musician",
+    "count": 4
+  },
+  {
+    "occupation": "bookbinder",
+    "count": 4
+  },
+  {
+    "occupation": "consul",
+    "count": 4
+  },
+  {
+    "occupation": "university president",
+    "count": 4
+  },
+  {
+    "occupation": "naval personnel",
+    "count": 4
+  },
+  {
+    "occupation": "traditional folk singer",
+    "count": 4
+  },
+  {
+    "occupation": "ceramicist",
+    "count": 4
+  },
+  {
+    "occupation": "palaeographer",
+    "count": 4
+  },
+  {
+    "occupation": "religious leader",
+    "count": 4
+  },
+  {
+    "occupation": "salonnière",
+    "count": 4
+  },
+  {
+    "occupation": "stockbroker",
+    "count": 4
+  },
+  {
+    "occupation": "samurai",
+    "count": 4
+  },
+  {
+    "occupation": "estate owner",
+    "count": 4
+  },
+  {
+    "occupation": "poet lawyer",
+    "count": 4
+  },
+  {
+    "occupation": "legal scholar",
+    "count": 4
+  },
+  {
+    "occupation": "comedian",
+    "count": 4
+  },
+  {
+    "occupation": "goldsmith",
+    "count": 4
+  },
+  {
+    "occupation": "religious",
+    "count": 4
+  },
+  {
+    "occupation": "functionary",
+    "count": 4
+  },
+  {
+    "occupation": "ichthyologist",
+    "count": 4
+  },
+  {
+    "occupation": "Protestant theologian",
+    "count": 4
+  },
+  {
+    "occupation": "Landrat",
+    "count": 4
+  },
+  {
+    "occupation": "obstetrician",
+    "count": 4
+  },
+  {
+    "occupation": "cricket umpire",
+    "count": 4
+  },
+  {
+    "occupation": "watchmaker",
+    "count": 4
+  },
+  {
+    "occupation": "tennis player",
+    "count": 3
+  },
+  {
+    "occupation": "secretary",
+    "count": 3
+  },
+  {
+    "occupation": "land agent",
+    "count": 3
+  },
+  {
+    "occupation": "Father",
+    "count": 3
+  },
+  {
+    "occupation": "clubwoman",
+    "count": 3
+  },
+  {
+    "occupation": "circus performer",
+    "count": 3
+  },
+  {
+    "occupation": "adult educator",
+    "count": 3
+  },
+  {
+    "occupation": "social activist",
+    "count": 3
+  },
+  {
+    "occupation": "jeweler",
+    "count": 3
+  },
+  {
+    "occupation": "art critic",
+    "count": 3
+  },
+  {
+    "occupation": "landscape architect",
+    "count": 3
+  },
+  {
+    "occupation": "auctioneer",
+    "count": 3
+  },
+  {
+    "occupation": "prelate",
+    "count": 3
+  },
+  {
+    "occupation": "engineer of the French Corps of Bridges and Roads",
+    "count": 3
+  },
+  {
+    "occupation": "councillor of commerce",
+    "count": 3
+  },
+  {
+    "occupation": "donor",
+    "count": 3
+  },
+  {
+    "occupation": "conservator",
+    "count": 3
+  },
+  {
+    "occupation": "provost",
+    "count": 3
+  },
+  {
+    "occupation": "dentist",
+    "count": 3
+  },
+  {
+    "occupation": "privatier",
+    "count": 3
+  },
+  {
+    "occupation": "microbiologist",
+    "count": 3
+  },
+  {
+    "occupation": "legislator",
+    "count": 3
+  },
+  {
+    "occupation": "medical writer",
+    "count": 3
+  },
+  {
+    "occupation": "newspaper proprietor",
+    "count": 3
+  },
+  {
+    "occupation": "military historian",
+    "count": 3
+  },
+  {
+    "occupation": "archer",
+    "count": 3
+  },
+  {
+    "occupation": "literary translator",
+    "count": 3
+  },
+  {
+    "occupation": "publicist",
+    "count": 3
+  },
+  {
+    "occupation": "hydraulic engineer",
+    "count": 3
+  },
+  {
+    "occupation": "lord of the manor",
+    "count": 3
+  },
+  {
+    "occupation": "communard",
+    "count": 3
+  },
+  {
+    "occupation": "association football referee",
+    "count": 3
+  },
+  {
+    "occupation": "maritime pilot",
+    "count": 3
+  },
+  {
+    "occupation": "museologist",
+    "count": 3
+  },
+  {
+    "occupation": "bacteriologist",
+    "count": 3
+  },
+  {
+    "occupation": "animal painter",
+    "count": 3
+  },
+  {
+    "occupation": "political scientist",
+    "count": 3
+  },
+  {
+    "occupation": "possessor",
+    "count": 3
+  },
+  {
+    "occupation": "legal historian",
+    "count": 3
+  },
+  {
+    "occupation": "scholar",
+    "count": 3
+  },
+  {
+    "occupation": "editor-in-chief",
+    "count": 3
+  },
+  {
+    "occupation": "columnist",
+    "count": 3
+  },
+  {
+    "occupation": "postmaster",
+    "count": 3
+  },
+  {
+    "occupation": "chapelmaster",
+    "count": 3
+  },
+  {
+    "occupation": "deacon",
+    "count": 3
+  },
+  {
+    "occupation": "pharmacologist",
+    "count": 3
+  },
+  {
+    "occupation": "Privatdozent",
+    "count": 3
+  },
+  {
+    "occupation": "beekeeper",
+    "count": 3
+  },
+  {
+    "occupation": "scenographer",
+    "count": 3
+  },
+  {
+    "occupation": "carcinologist",
+    "count": 3
+  },
+  {
+    "occupation": "medic",
+    "count": 3
+  },
+  {
+    "occupation": "bank manager",
+    "count": 3
+  },
+  {
+    "occupation": "musicographer",
+    "count": 3
+  },
+  {
+    "occupation": "designer",
+    "count": 3
+  },
+  {
+    "occupation": "lady-in-waiting",
+    "count": 3
+  },
+  {
+    "occupation": "docent",
+    "count": 3
+  },
+  {
+    "occupation": "history painter",
+    "count": 3
+  },
+  {
+    "occupation": "conchologist",
+    "count": 3
+  },
+  {
+    "occupation": "film producer",
+    "count": 3
+  },
+  {
+    "occupation": "lichenologist",
+    "count": 3
+  },
+  {
+    "occupation": "pastellist",
+    "count": 3
+  },
+  {
+    "occupation": "nun",
+    "count": 3
+  },
+  {
+    "occupation": "military engineer",
+    "count": 3
+  },
+  {
+    "occupation": "Orthodox theologian",
+    "count": 3
+  },
+  {
+    "occupation": "eugenicist",
+    "count": 2
+  },
+  {
+    "occupation": "senior accountant",
+    "count": 2
+  },
+  {
+    "occupation": "bushi",
+    "count": 2
+  },
+  {
+    "occupation": "interior designer",
+    "count": 2
+  },
+  {
+    "occupation": "rower",
+    "count": 2
+  },
+  {
+    "occupation": "cattle rancher",
+    "count": 2
+  },
+  {
+    "occupation": "gymnast",
+    "count": 2
+  },
+  {
+    "occupation": "avoué",
+    "count": 2
+  },
+  {
+    "occupation": "furrier",
+    "count": 2
+  },
+  {
+    "occupation": "railway worker",
+    "count": 2
+  },
+  {
+    "occupation": "firefighter",
+    "count": 2
+  },
+  {
+    "occupation": "Buddhist monk",
+    "count": 2
+  },
+  {
+    "occupation": "agrostologist",
+    "count": 2
+  },
+  {
+    "occupation": "editorial cartoonist",
+    "count": 2
+  },
+  {
+    "occupation": "justice of the peace",
+    "count": 2
+  },
+  {
+    "occupation": "founder",
+    "count": 2
+  },
+  {
+    "occupation": "urban planner",
+    "count": 2
+  },
+  {
+    "occupation": "exlibrist",
+    "count": 2
+  },
+  {
+    "occupation": "military flight engineer",
+    "count": 2
+  },
+  {
+    "occupation": "Reformed pastor",
+    "count": 2
+  },
+  {
+    "occupation": "volcanologist",
+    "count": 2
+  },
+  {
+    "occupation": "seismologist",
+    "count": 2
+  },
+  {
+    "occupation": "trumpeter",
+    "count": 2
+  },
+  {
+    "occupation": "miller",
+    "count": 2
+  },
+  {
+    "occupation": "Christian nun",
+    "count": 2
+  },
+  {
+    "occupation": "anarchist",
+    "count": 2
+  },
+  {
+    "occupation": "vicar general",
+    "count": 2
+  },
+  {
+    "occupation": "canon law jurist",
+    "count": 2
+  },
+  {
+    "occupation": "tinsmith",
+    "count": 2
+  },
+  {
+    "occupation": "superintendent",
+    "count": 2
+  },
+  {
+    "occupation": "machinist",
+    "count": 2
+  },
+  {
+    "occupation": "stock and station agent",
+    "count": 2
+  },
+  {
+    "occupation": "cantor",
+    "count": 2
+  },
+  {
+    "occupation": "book printer",
+    "count": 2
+  },
+  {
+    "occupation": "harmonium builder",
+    "count": 2
+  },
+  {
+    "occupation": "skipper",
+    "count": 2
+  },
+  {
+    "occupation": "investor",
+    "count": 2
+  },
+  {
+    "occupation": "bartender",
+    "count": 2
+  },
+  {
+    "occupation": "swimmer",
+    "count": 2
+  },
+  {
+    "occupation": "mechanic",
+    "count": 2
+  },
+  {
+    "occupation": "theatre critic",
+    "count": 2
+  },
+  {
+    "occupation": "cultural activist",
+    "count": 2
+  },
+  {
+    "occupation": "art theorist",
+    "count": 2
+  },
+  {
+    "occupation": "train driver",
+    "count": 2
+  },
+  {
+    "occupation": "benefactor",
+    "count": 2
+  },
+  {
+    "occupation": "community leader",
+    "count": 2
+  },
+  {
+    "occupation": "researcher",
+    "count": 2
+  },
+  {
+    "occupation": "violist",
+    "count": 2
+  },
+  {
+    "occupation": "luthier",
+    "count": 2
+  },
+  {
+    "occupation": "chamberlain",
+    "count": 2
+  },
+  {
+    "occupation": "music publisher",
+    "count": 2
+  },
+  {
+    "occupation": "legal counselor",
+    "count": 2
+  },
+  {
+    "occupation": "coal miner",
+    "count": 2
+  },
+  {
+    "occupation": "harpist",
+    "count": 2
+  },
+  {
+    "occupation": "magician",
+    "count": 2
+  },
+  {
+    "occupation": "church writer",
+    "count": 2
+  },
+  {
+    "occupation": "lyricist",
+    "count": 2
+  },
+  {
+    "occupation": "oral tradition collector",
+    "count": 2
+  },
+  {
+    "occupation": "military commander",
+    "count": 2
+  },
+  {
+    "occupation": "schoolmaster",
+    "count": 2
+  },
+  {
+    "occupation": "Bible translator",
+    "count": 2
+  },
+  {
+    "occupation": "pomologist",
+    "count": 2
+  },
+  {
+    "occupation": "drawing teacher",
+    "count": 2
+  },
+  {
+    "occupation": "political activist",
+    "count": 2
+  },
+  {
+    "occupation": "kabuki actor",
+    "count": 2
+  },
+  {
+    "occupation": "orator",
+    "count": 2
+  },
+  {
+    "occupation": "settler",
+    "count": 2
+  },
+  {
+    "occupation": "geneticist",
+    "count": 2
+  },
+  {
+    "occupation": "decorative painter",
+    "count": 2
+  },
+  {
+    "occupation": "Oberamtmann",
+    "count": 2
+  },
+  {
+    "occupation": "taxidermist",
+    "count": 2
+  },
+  {
+    "occupation": "zoological collector",
+    "count": 2
+  },
+  {
+    "occupation": "typesetter",
+    "count": 2
+  },
+  {
+    "occupation": "stained-glass artist",
+    "count": 2
+  },
+  {
+    "occupation": "mythographer",
+    "count": 2
+  },
+  {
+    "occupation": "internist",
+    "count": 2
+  },
+  {
+    "occupation": "encyclopédistes",
+    "count": 2
+  },
+  {
+    "occupation": "political economist",
+    "count": 2
+  },
+  {
+    "occupation": "Cellar Master",
+    "count": 2
+  },
+  {
+    "occupation": "medical historian",
+    "count": 2
+  },
+  {
+    "occupation": "religious figure",
+    "count": 2
+  },
+  {
+    "occupation": "double-bassist",
+    "count": 2
+  },
+  {
+    "occupation": "mountain guide",
+    "count": 2
+  },
+  {
+    "occupation": "hegumen",
+    "count": 2
+  },
+  {
+    "occupation": "preservationist",
+    "count": 2
+  },
+  {
+    "occupation": "phycologist",
+    "count": 2
+  },
+  {
+    "occupation": "paleobotanist",
+    "count": 2
+  },
+  {
+    "occupation": "bricklayer",
+    "count": 2
+  },
+  {
+    "occupation": "copper engraver",
+    "count": 2
+  },
+  {
+    "occupation": "exhibition curator",
+    "count": 2
+  },
+  {
+    "occupation": "peace activist",
+    "count": 2
+  },
+  {
+    "occupation": "miniature painter",
+    "count": 2
+  },
+  {
+    "occupation": "distiller",
+    "count": 2
+  },
+  {
+    "occupation": "encyclopedist",
+    "count": 2
+  },
+  {
+    "occupation": "art dealer",
+    "count": 2
+  },
+  {
+    "occupation": "colonial administrator",
+    "count": 2
+  },
+  {
+    "occupation": "clergyman",
+    "count": 2
+  },
+  {
+    "occupation": "Q137178813",
+    "count": 2
+  },
+  {
+    "occupation": "xylographer",
+    "count": 2
+  },
+  {
+    "occupation": "botanical illustrator",
+    "count": 2
+  },
+  {
+    "occupation": "religious writer",
+    "count": 2
+  },
+  {
+    "occupation": "inspector",
+    "count": 2
+  },
+  {
+    "occupation": "dialect writer",
+    "count": 2
+  },
+  {
+    "occupation": "alderman",
+    "count": 2
+  },
+  {
+    "occupation": "caricaturist",
+    "count": 2
+  },
+  {
+    "occupation": "peasant",
+    "count": 2
+  },
+  {
+    "occupation": "portrait painter",
+    "count": 2
+  },
+  {
+    "occupation": "principal",
+    "count": 2
+  },
+  {
+    "occupation": "geodesist",
+    "count": 2
+  },
+  {
+    "occupation": "spiritual medium",
+    "count": 2
+  },
+  {
+    "occupation": "lecturer",
+    "count": 2
+  },
+  {
+    "occupation": "latinist",
+    "count": 2
+  },
+  {
+    "occupation": "scientific explorer",
+    "count": 2
+  },
+  {
+    "occupation": "otolaryngologist",
+    "count": 2
+  },
+  {
+    "occupation": "biblical scholar",
+    "count": 2
+  },
+  {
+    "occupation": "glass artist",
+    "count": 2
+  },
+  {
+    "occupation": "innkeeper",
+    "count": 2
+  },
+  {
+    "occupation": "humorist",
+    "count": 2
+  },
+  {
+    "occupation": "friar",
+    "count": 2
+  },
+  {
+    "occupation": "blacksmith",
+    "count": 2
+  },
+  {
+    "occupation": "chocolatier",
+    "count": 2
+  },
+  {
+    "occupation": "chansonnier",
+    "count": 2
+  },
+  {
+    "occupation": "hygienist",
+    "count": 2
+  },
+  {
+    "occupation": "forestry scientist",
+    "count": 2
+  },
+  {
+    "occupation": "language teacher",
+    "count": 2
+  },
+  {
+    "occupation": "dean",
+    "count": 2
+  },
+  {
+    "occupation": "agricultural entrepreneur",
+    "count": 2
+  },
+  {
+    "occupation": "real-estate agent",
+    "count": 2
+  },
+  {
+    "occupation": "medical researcher",
+    "count": 2
+  },
+  {
+    "occupation": "tailor",
+    "count": 2
+  },
+  {
+    "occupation": "fashion designer",
+    "count": 2
+  },
+  {
+    "occupation": "music dealer",
+    "count": 2
+  },
+  {
+    "occupation": "feminist",
+    "count": 2
+  },
+  {
+    "occupation": "ambassador",
+    "count": 2
+  },
+  {
+    "occupation": "dramaturge",
+    "count": 2
+  },
+  {
+    "occupation": "insect dealer",
+    "count": 2
+  },
+  {
+    "occupation": "bookkeeper",
+    "count": 2
+  },
+  {
+    "occupation": "homeopath",
+    "count": 2
+  },
+  {
+    "occupation": "gangster",
+    "count": 1
+  },
+  {
+    "occupation": "folklore collector",
+    "count": 1
+  },
+  {
+    "occupation": "literary theorist",
+    "count": 1
+  },
+  {
+    "occupation": "peace officer",
+    "count": 1
+  },
+  {
+    "occupation": "teacher of the deaf",
+    "count": 1
+  },
+  {
+    "occupation": "Public superintendent",
+    "count": 1
+  },
+  {
+    "occupation": "military chaplain",
+    "count": 1
+  },
+  {
+    "occupation": "police constable",
+    "count": 1
+  },
+  {
+    "occupation": "animal trainer",
+    "count": 1
+  },
+  {
+    "occupation": "circus director",
+    "count": 1
+  },
+  {
+    "occupation": "Greek-Catholic priest",
+    "count": 1
+  },
+  {
+    "occupation": "ironmaster",
+    "count": 1
+  },
+  {
+    "occupation": "environmentalist",
+    "count": 1
+  },
+  {
+    "occupation": "oncologist",
+    "count": 1
+  },
+  {
+    "occupation": "Q3153023",
+    "count": 1
+  },
+  {
+    "occupation": "cigar maker",
+    "count": 1
+  },
+  {
+    "occupation": "weaver",
+    "count": 1
+  },
+  {
+    "occupation": "slavist",
+    "count": 1
+  },
+  {
+    "occupation": "portrait photographer",
+    "count": 1
+  },
+  {
+    "occupation": "shop assistant",
+    "count": 1
+  },
+  {
+    "occupation": "Hebrew Bible scholar",
+    "count": 1
+  },
+  {
+    "occupation": "public administration of France",
+    "count": 1
+  },
+  {
+    "occupation": "wood carver",
+    "count": 1
+  },
+  {
+    "occupation": "café owner",
+    "count": 1
+  },
+  {
+    "occupation": "stenographer",
+    "count": 1
+  },
+  {
+    "occupation": "dictionary author",
+    "count": 1
+  },
+  {
+    "occupation": "bridge engineer",
+    "count": 1
+  },
+  {
+    "occupation": "pigeon fancier",
+    "count": 1
+  },
+  {
+    "occupation": "physician writer",
+    "count": 1
+  },
+  {
+    "occupation": "robber",
+    "count": 1
+  },
+  {
+    "occupation": "fitter",
+    "count": 1
+  },
+  {
+    "occupation": "astrologer",
+    "count": 1
+  },
+  {
+    "occupation": "Q137807414",
+    "count": 1
+  },
+  {
+    "occupation": "saddler",
+    "count": 1
+  },
+  {
+    "occupation": "wine merchant",
+    "count": 1
+  },
+  {
+    "occupation": "director of land survey",
+    "count": 1
+  },
+  {
+    "occupation": "Islamicist",
+    "count": 1
+  },
+  {
+    "occupation": "bedel",
+    "count": 1
+  },
+  {
+    "occupation": "prospector",
+    "count": 1
+  },
+  {
+    "occupation": "law theorist",
+    "count": 1
+  },
+  {
+    "occupation": "carpenter",
+    "count": 1
+  },
+  {
+    "occupation": "childcare provider",
+    "count": 1
+  },
+  {
+    "occupation": "electrician",
+    "count": 1
+  },
+  {
+    "occupation": "District Marshall",
+    "count": 1
+  },
+  {
+    "occupation": "model",
+    "count": 1
+  },
+  {
+    "occupation": "overførster",
+    "count": 1
+  },
+  {
+    "occupation": "building contractor",
+    "count": 1
+  },
+  {
+    "occupation": "film exhibitor",
+    "count": 1
+  },
+  {
+    "occupation": "flower painter",
+    "count": 1
+  },
+  {
+    "occupation": "economic journalist",
+    "count": 1
+  },
+  {
+    "occupation": "bell-ringer",
+    "count": 1
+  },
+  {
+    "occupation": "Q10672548",
+    "count": 1
+  },
+  {
+    "occupation": "yeoman",
+    "count": 1
+  },
+  {
+    "occupation": "map drawer",
+    "count": 1
+  },
+  {
+    "occupation": "bryologist",
+    "count": 1
+  },
+  {
+    "occupation": "pediatrician",
+    "count": 1
+  },
+  {
+    "occupation": "marine architect",
+    "count": 1
+  },
+  {
+    "occupation": "admiral",
+    "count": 1
+  },
+  {
+    "occupation": "theatrical producer",
+    "count": 1
+  },
+  {
+    "occupation": "otologist",
+    "count": 1
+  },
+  {
+    "occupation": "arabist",
+    "count": 1
+  },
+  {
+    "occupation": "architectural draftsperson",
+    "count": 1
+  },
+  {
+    "occupation": "Q51523928",
+    "count": 1
+  },
+  {
+    "occupation": "hatter",
+    "count": 1
+  },
+  {
+    "occupation": "trekker",
+    "count": 1
+  },
+  {
+    "occupation": "panoramist",
+    "count": 1
+  },
+  {
+    "occupation": "wood engraver",
+    "count": 1
+  },
+  {
+    "occupation": "artillerist",
+    "count": 1
+  },
+  {
+    "occupation": "mystic",
+    "count": 1
+  },
+  {
+    "occupation": "railwayman",
+    "count": 1
+  },
+  {
+    "occupation": "world traveler",
+    "count": 1
+  },
+  {
+    "occupation": "scout",
+    "count": 1
+  },
+  {
+    "occupation": "military musician",
+    "count": 1
+  },
+  {
+    "occupation": "Sanskrit scholar",
+    "count": 1
+  },
+  {
+    "occupation": "advocate",
+    "count": 1
+  },
+  {
+    "occupation": "Kirchenmusikdirektor",
+    "count": 1
+  },
+  {
+    "occupation": "Minister–Secretary of State for Finland",
+    "count": 1
+  },
+  {
+    "occupation": "chronicler",
+    "count": 1
+  },
+  {
+    "occupation": "ice hockey player",
+    "count": 1
+  },
+  {
+    "occupation": "special constable",
+    "count": 1
+  },
+  {
+    "occupation": "telegraphist",
+    "count": 1
+  },
+  {
+    "occupation": "station master",
+    "count": 1
+  },
+  {
+    "occupation": "insurance broker",
+    "count": 1
+  },
+  {
+    "occupation": "husbandry worker",
+    "count": 1
+  },
+  {
+    "occupation": "Q28721657",
+    "count": 1
+  },
+  {
+    "occupation": "Q28948007",
+    "count": 1
+  },
+  {
+    "occupation": "deputy judge",
+    "count": 1
+  },
+  {
+    "occupation": "japanologist",
+    "count": 1
+  },
+  {
+    "occupation": "Q16324955",
+    "count": 1
+  },
+  {
+    "occupation": "historic preservationist",
+    "count": 1
+  },
+  {
+    "occupation": "courtier",
+    "count": 1
+  },
+  {
+    "occupation": "Schulrat",
+    "count": 1
+  },
+  {
+    "occupation": "Registrar of the House of Representatives",
+    "count": 1
+  },
+  {
+    "occupation": "local government official",
+    "count": 1
+  },
+  {
+    "occupation": "council member",
+    "count": 1
+  },
+  {
+    "occupation": "cowboy",
+    "count": 1
+  },
+  {
+    "occupation": "navigator",
+    "count": 1
+  },
+  {
+    "occupation": "tax inspector",
+    "count": 1
+  },
+  {
+    "occupation": "proprietor",
+    "count": 1
+  },
+  {
+    "occupation": "aesthetician",
+    "count": 1
+  },
+  {
+    "occupation": "sheriff",
+    "count": 1
+  },
+  {
+    "occupation": "bretteur",
+    "count": 1
+  },
+  {
+    "occupation": "chef de chant",
+    "count": 1
+  },
+  {
+    "occupation": "historian of mathematics",
+    "count": 1
+  },
+  {
+    "occupation": "herpetologist",
+    "count": 1
+  },
+  {
+    "occupation": "horn player",
+    "count": 1
+  },
+  {
+    "occupation": "porcelain painter",
+    "count": 1
+  },
+  {
+    "occupation": "fruit grower",
+    "count": 1
+  },
+  {
+    "occupation": "bassoonist",
+    "count": 1
+  },
+  {
+    "occupation": "crystallographer",
+    "count": 1
+  },
+  {
+    "occupation": "assyriologist",
+    "count": 1
+  },
+  {
+    "occupation": "urologist",
+    "count": 1
+  },
+  {
+    "occupation": "serial killer",
+    "count": 1
+  },
+  {
+    "occupation": "spy",
+    "count": 1
+  },
+  {
+    "occupation": "traditional leader or chief",
+    "count": 1
+  },
+  {
+    "occupation": "polymath",
+    "count": 1
+  },
+  {
+    "occupation": "ecologist",
+    "count": 1
+  },
+  {
+    "occupation": "minister",
+    "count": 1
+  },
+  {
+    "occupation": "ulema",
+    "count": 1
+  },
+  {
+    "occupation": "muhaddith",
+    "count": 1
+  },
+  {
+    "occupation": "Islamic jurist",
+    "count": 1
+  },
+  {
+    "occupation": "sorenskriver",
+    "count": 1
+  },
+  {
+    "occupation": "coptologist",
+    "count": 1
+  },
+  {
+    "occupation": "fisher",
+    "count": 1
+  },
+  {
+    "occupation": "rugby union match official",
+    "count": 1
+  },
+  {
+    "occupation": "lobbyist",
+    "count": 1
+  },
+  {
+    "occupation": "envoy",
+    "count": 1
+  },
+  {
+    "occupation": "trustee",
+    "count": 1
+  },
+  {
+    "occupation": "equestrian",
+    "count": 1
+  },
+  {
+    "occupation": "notary public",
+    "count": 1
+  },
+  {
+    "occupation": "parasitologist",
+    "count": 1
+  },
+  {
+    "occupation": "helminthologist",
+    "count": 1
+  },
+  {
+    "occupation": "chairperson",
+    "count": 1
+  },
+  {
+    "occupation": "Q19760284",
+    "count": 1
+  },
+  {
+    "occupation": "resistance fighter",
+    "count": 1
+  },
+  {
+    "occupation": "succentor",
+    "count": 1
+  },
+  {
+    "occupation": "museum professional",
+    "count": 1
+  },
+  {
+    "occupation": "educational theorist",
+    "count": 1
+  },
+  {
+    "occupation": "legal advocate in France",
+    "count": 1
+  },
+  {
+    "occupation": "art educator",
+    "count": 1
+  },
+  {
+    "occupation": "racial theorist",
+    "count": 1
+  },
+  {
+    "occupation": "professeur des universités",
+    "count": 1
+  },
+  {
+    "occupation": "heraldist",
+    "count": 1
+  },
+  {
+    "occupation": "Q11960402",
+    "count": 1
+  },
+  {
+    "occupation": "Prefecture advisor",
+    "count": 1
+  },
+  {
+    "occupation": "socialist",
+    "count": 1
+  },
+  {
+    "occupation": "sex reformer",
+    "count": 1
+  },
+  {
+    "occupation": "Theaterintendant",
+    "count": 1
+  },
+  {
+    "occupation": "assistant pastor",
+    "count": 1
+  },
+  {
+    "occupation": "salesperson",
+    "count": 1
+  },
+  {
+    "occupation": "trader of naturalia",
+    "count": 1
+  },
+  {
+    "occupation": "school inspector",
+    "count": 1
+  },
+  {
+    "occupation": "daimyo",
+    "count": 1
+  },
+  {
+    "occupation": "hazzan",
+    "count": 1
+  },
+  {
+    "occupation": "carver",
+    "count": 1
+  },
+  {
+    "occupation": "army scout",
+    "count": 1
+  },
+  {
+    "occupation": "professor of mathematics",
+    "count": 1
+  },
+  {
+    "occupation": "polar explorer",
+    "count": 1
+  },
+  {
+    "occupation": "Q108439375",
+    "count": 1
+  },
+  {
+    "occupation": "Q123266442",
+    "count": 1
+  },
+  {
+    "occupation": "concertmaster",
+    "count": 1
+  },
+  {
+    "occupation": "President of Chile",
+    "count": 1
+  },
+  {
+    "occupation": "representative",
+    "count": 1
+  },
+  {
+    "occupation": "religious studies scholar",
+    "count": 1
+  },
+  {
+    "occupation": "bodeguero",
+    "count": 1
+  },
+  {
+    "occupation": "music arranger",
+    "count": 1
+  },
+  {
+    "occupation": "opera vocal coach",
+    "count": 1
+  },
+  {
+    "occupation": "Q96313704",
+    "count": 1
+  },
+  {
+    "occupation": "bohemicist",
+    "count": 1
+  },
+  {
+    "occupation": "construction officer",
+    "count": 1
+  },
+  {
+    "occupation": "toxicologist",
+    "count": 1
+  },
+  {
+    "occupation": "prostitute",
+    "count": 1
+  },
+  {
+    "occupation": "entertainer",
+    "count": 1
+  },
+  {
+    "occupation": "textbook writer",
+    "count": 1
+  },
+  {
+    "occupation": "teacher at a Gymnasium",
+    "count": 1
+  },
+  {
+    "occupation": "łowczy",
+    "count": 1
+  },
+  {
+    "occupation": "dog breeder",
+    "count": 1
+  },
+  {
+    "occupation": "board member",
+    "count": 1
+  },
+  {
+    "occupation": "music publicist",
+    "count": 1
+  },
+  {
+    "occupation": "nursery gardener",
+    "count": 1
+  },
+  {
+    "occupation": "music director",
+    "count": 1
+  },
+  {
+    "occupation": "director of nursing",
+    "count": 1
+  },
+  {
+    "occupation": "furniture maker",
+    "count": 1
+  },
+  {
+    "occupation": "hunter",
+    "count": 1
+  },
+  {
+    "occupation": "big game hunter",
+    "count": 1
+  },
+  {
+    "occupation": "Präses",
+    "count": 1
+  },
+  {
+    "occupation": "stationer",
+    "count": 1
+  },
+  {
+    "occupation": "Clerical Officer",
+    "count": 1
+  },
+  {
+    "occupation": "sport shooter",
+    "count": 1
+  },
+  {
+    "occupation": "employee",
+    "count": 1
+  },
+  {
+    "occupation": "music theorist",
+    "count": 1
+  },
+  {
+    "occupation": "consultant",
+    "count": 1
+  },
+  {
+    "occupation": "sport historian",
+    "count": 1
+  },
+  {
+    "occupation": "trader",
+    "count": 1
+  },
+  {
+    "occupation": "humanities scholar",
+    "count": 1
+  },
+  {
+    "occupation": "virologist",
+    "count": 1
+  },
+  {
+    "occupation": "jockey",
+    "count": 1
+  },
+  {
+    "occupation": "executioner",
+    "count": 1
+  },
+  {
+    "occupation": "stadsfiskal",
+    "count": 1
+  },
+  {
+    "occupation": "veterinary scientist",
+    "count": 1
+  },
+  {
+    "occupation": "miner",
+    "count": 1
+  },
+  {
+    "occupation": "racing automobile driver",
+    "count": 1
+  },
+  {
+    "occupation": "sideshow performer",
+    "count": 1
+  },
+  {
+    "occupation": "laborer",
+    "count": 1
+  },
+  {
+    "occupation": "classical composer",
+    "count": 1
+  },
+  {
+    "occupation": "advertising person",
+    "count": 1
+  },
+  {
+    "occupation": "Q111369492",
+    "count": 1
+  },
+  {
+    "occupation": "Q108295397",
+    "count": 1
+  },
+  {
+    "occupation": "biophysicist",
+    "count": 1
+  },
+  {
+    "occupation": "association football executive",
+    "count": 1
+  },
+  {
+    "occupation": "cabinetmaker",
+    "count": 1
+  },
+  {
+    "occupation": "adventurer",
+    "count": 1
+  },
+  {
+    "occupation": "jewelry designer",
+    "count": 1
+  },
+  {
+    "occupation": "customs inspector",
+    "count": 1
+  },
+  {
+    "occupation": "microscopist",
+    "count": 1
+  },
+  {
+    "occupation": "antiquarian seller",
+    "count": 1
+  },
+  {
+    "occupation": "cartoonist",
+    "count": 1
+  },
+  {
+    "occupation": "military writer",
+    "count": 1
+  },
+  {
+    "occupation": "Q97205356",
+    "count": 1
+  },
+  {
+    "occupation": "canut",
+    "count": 1
+  },
+  {
+    "occupation": "inspecteur d'académie",
+    "count": 1
+  },
+  {
+    "occupation": "Q115706151",
+    "count": 1
+  },
+  {
+    "occupation": "intellectual",
+    "count": 1
+  },
+  {
+    "occupation": "journal editor",
+    "count": 1
+  },
+  {
+    "occupation": "swordfighter",
+    "count": 1
+  },
+  {
+    "occupation": "optician",
+    "count": 1
+  },
+  {
+    "occupation": "stamp forger",
+    "count": 1
+  },
+  {
+    "occupation": "oenologist",
+    "count": 1
+  },
+  {
+    "occupation": "impresario",
+    "count": 1
+  },
+  {
+    "occupation": "balneologist",
+    "count": 1
+  },
+  {
+    "occupation": "sawmiller",
+    "count": 1
+  },
+  {
+    "occupation": "mechanical technician",
+    "count": 1
+  },
+  {
+    "occupation": "joiner",
+    "count": 1
+  },
+  {
+    "occupation": "piano factory proprietor",
+    "count": 1
+  },
+  {
+    "occupation": "grocer",
+    "count": 1
+  },
+  {
+    "occupation": "opera director",
+    "count": 1
+  },
+  {
+    "occupation": "legal author",
+    "count": 1
+  },
+  {
+    "occupation": "Marineoffizier",
+    "count": 1
+  },
+  {
+    "occupation": "art director",
+    "count": 1
+  },
+  {
+    "occupation": "music writer",
+    "count": 1
+  },
+  {
+    "occupation": "Q115706796",
+    "count": 1
+  },
+  {
+    "occupation": "coffee grower",
+    "count": 1
+  },
+  {
+    "occupation": "deputy general director",
+    "count": 1
+  },
+  {
+    "occupation": "Q110454740",
+    "count": 1
+  },
+  {
+    "occupation": "town marshal",
+    "count": 1
+  },
+  {
+    "occupation": "advokat",
+    "count": 1
+  },
+  {
+    "occupation": "coleopterist",
+    "count": 1
+  },
+  {
+    "occupation": "hymenopterist",
+    "count": 1
+  },
+  {
+    "occupation": "bobbin lace maker",
+    "count": 1
+  },
+  {
+    "occupation": "graphic designer",
+    "count": 1
+  },
+  {
+    "occupation": "cook",
+    "count": 1
+  },
+  {
+    "occupation": "Amtmann",
+    "count": 1
+  },
+  {
+    "occupation": "stratigrapher",
+    "count": 1
+  },
+  {
+    "occupation": "invertebrate paleontologist",
+    "count": 1
+  },
+  {
+    "occupation": "newspaper creator",
+    "count": 1
+  },
+  {
+    "occupation": "naval surgeon",
+    "count": 1
+  },
+  {
+    "occupation": "balloonist",
+    "count": 1
+  },
+  {
+    "occupation": "burgomaster",
+    "count": 1
+  },
+  {
+    "occupation": "Sokol",
+    "count": 1
+  },
+  {
+    "occupation": "hydrographer",
+    "count": 1
+  },
+  {
+    "occupation": "anarcho-syndicalist",
+    "count": 1
+  },
+  {
+    "occupation": "locksmith",
+    "count": 1
+  },
+  {
+    "occupation": "artistic blacksmith",
+    "count": 1
+  },
+  {
+    "occupation": "fashion illustrator",
+    "count": 1
+  },
+  {
+    "occupation": "confectioner",
+    "count": 1
+  },
+  {
+    "occupation": "cavalry master",
+    "count": 1
+  },
+  {
+    "occupation": "monarch",
+    "count": 1
+  },
+  {
+    "occupation": "stonemason",
+    "count": 1
+  },
+  {
+    "occupation": "expert witness",
+    "count": 1
+  },
+  {
+    "occupation": "campanologist",
+    "count": 1
+  },
+  {
+    "occupation": "potter",
+    "count": 1
+  },
+  {
+    "occupation": "state-certified engineers specializing in building construction",
+    "count": 1
+  },
+  {
+    "occupation": "Australian rules football player",
+    "count": 1
+  },
+  {
+    "occupation": "conservationist",
+    "count": 1
+  },
+  {
+    "occupation": "business magnate",
+    "count": 1
+  },
+  {
+    "occupation": "expeditor",
+    "count": 1
+  },
+  {
+    "occupation": "petrologist",
+    "count": 1
+  },
+  {
+    "occupation": "teamster",
+    "count": 1
+  },
+  {
+    "occupation": "capitalist",
+    "count": 1
+  },
+  {
+    "occupation": "folk artist",
+    "count": 1
+  },
+  {
+    "occupation": "jurist-consultant",
+    "count": 1
+  },
+  {
+    "occupation": "coffeeman",
+    "count": 1
+  },
+  {
+    "occupation": "sinologist",
+    "count": 1
+  },
+  {
+    "occupation": "operetta singer",
+    "count": 1
+  },
+  {
+    "occupation": "metallurgical engineer",
+    "count": 1
+  },
+  {
+    "occupation": "hospital chief executive officer",
+    "count": 1
+  },
+  {
+    "occupation": "animalier",
+    "count": 1
+  },
+  {
+    "occupation": "rider",
+    "count": 1
+  },
+  {
+    "occupation": "orthopedic surgeon",
+    "count": 1
+  },
+  {
+    "occupation": "emergency medical technician",
+    "count": 1
+  },
+  {
+    "occupation": "choreographer",
+    "count": 1
+  },
+  {
+    "occupation": "memoir editor",
+    "count": 1
+  },
+  {
+    "occupation": "histologist",
+    "count": 1
+  },
+  {
+    "occupation": "embryologist",
+    "count": 1
+  },
+  {
+    "occupation": "Ministerialrat",
+    "count": 1
+  },
+  {
+    "occupation": "administrative lawyer",
+    "count": 1
+  },
+  {
+    "occupation": "comedy writer",
+    "count": 1
+  },
+  {
+    "occupation": "grand couturier",
+    "count": 1
+  },
+  {
+    "occupation": "historian of student",
+    "count": 1
+  },
+  {
+    "occupation": "Judaic scholar",
+    "count": 1
+  },
+  {
+    "occupation": "religious education teacher",
+    "count": 1
+  },
+  {
+    "occupation": "brewmaster",
+    "count": 1
+  },
+  {
+    "occupation": "aquarist",
+    "count": 1
+  },
+  {
+    "occupation": "comptroller",
+    "count": 1
+  },
+  {
+    "occupation": "customs officer",
+    "count": 1
+  },
+  {
+    "occupation": "solicitor",
+    "count": 1
+  },
+  {
+    "occupation": "Q64008142",
+    "count": 1
+  },
+  {
+    "occupation": "school superintendent",
+    "count": 1
+  },
+  {
+    "occupation": "humanitarian",
+    "count": 1
+  },
+  {
+    "occupation": "mayor of Odesa",
+    "count": 1
+  },
+  {
+    "occupation": "Huissier de justice",
+    "count": 1
+  },
+  {
+    "occupation": "submariner",
+    "count": 1
+  },
+  {
+    "occupation": "criminal",
+    "count": 1
+  },
+  {
+    "occupation": "telmatologist",
+    "count": 1
+  },
+  {
+    "occupation": "Hofmeister",
+    "count": 1
+  },
+  {
+    "occupation": "clown",
+    "count": 1
+  },
+  {
+    "occupation": "Q112118932",
+    "count": 1
+  },
+  {
+    "occupation": "fighting bull rancher",
+    "count": 1
+  },
+  {
+    "occupation": "fresco painter",
+    "count": 1
+  },
+  {
+    "occupation": "parapsychologist",
+    "count": 1
+  },
+  {
+    "occupation": "Indiano",
+    "count": 1
+  },
+  {
+    "occupation": "historian of religion",
+    "count": 1
+  },
+  {
+    "occupation": "singer-songwriter",
+    "count": 1
+  },
+  {
+    "occupation": "nightclub owner",
+    "count": 1
+  },
+  {
+    "occupation": "folk musician",
+    "count": 1
+  },
+  {
+    "occupation": "Dutch East India Company",
+    "count": 1
+  },
+  {
+    "occupation": "assistant",
+    "count": 1
+  },
+  {
+    "occupation": "deputy speaker",
+    "count": 1
+  },
+  {
+    "occupation": "civil rights advocate",
+    "count": 1
+  },
+  {
+    "occupation": "homme de lettres",
+    "count": 1
+  },
+  {
+    "occupation": "agricultural chemist",
+    "count": 1
+  },
+  {
+    "occupation": "architectural historian",
+    "count": 1
+  },
+  {
+    "occupation": "geophysicist",
+    "count": 1
+  },
+  {
+    "occupation": "literary editor",
+    "count": 1
+  },
+  {
+    "occupation": "rugby league player",
+    "count": 1
+  },
+  {
+    "occupation": "education activist",
+    "count": 1
+  },
+  {
+    "occupation": "film distributor",
+    "count": 1
+  },
+  {
+    "occupation": "design engineer",
+    "count": 1
+  },
+  {
+    "occupation": "printer to the King",
+    "count": 1
+  },
+  {
+    "occupation": "Q50418136",
+    "count": 1
+  },
+  {
+    "occupation": "procurer",
+    "count": 1
+  },
+  {
+    "occupation": "sports official",
+    "count": 1
+  },
+  {
+    "occupation": "economic historian",
+    "count": 1
+  },
+  {
+    "occupation": "social historian",
+    "count": 1
+  },
+  {
+    "occupation": "myriapodologist",
+    "count": 1
+  },
+  {
+    "occupation": "environmental health officer",
+    "count": 1
+  },
+  {
+    "occupation": "rikishi",
+    "count": 1
+  },
+  {
+    "occupation": "deputy municipal clerk",
+    "count": 1
+  },
+  {
+    "occupation": "earth scientist",
+    "count": 1
+  },
+  {
+    "occupation": "chief of police",
+    "count": 1
+  },
+  {
+    "occupation": "factor",
+    "count": 1
+  },
+  {
+    "occupation": "hotel owner",
+    "count": 1
+  },
+  {
+    "occupation": "golfer",
+    "count": 1
+  },
+  {
+    "occupation": "showman",
+    "count": 1
+  },
+  {
+    "occupation": "gymnastics director",
+    "count": 1
+  },
+  {
+    "occupation": "polo player",
+    "count": 1
+  },
+  {
+    "occupation": "pastoralist",
+    "count": 1
+  },
+  {
+    "occupation": "cultural critic",
+    "count": 1
+  },
+  {
+    "occupation": "cobbler",
+    "count": 1
+  },
+  {
+    "occupation": "mosaicist",
+    "count": 1
+  },
+  {
+    "occupation": "general practitioner",
+    "count": 1
+  },
+  {
+    "occupation": "locomotive designer",
+    "count": 1
+  },
+  {
+    "occupation": "barefoot historian",
+    "count": 1
+  },
+  {
+    "occupation": "counsel",
+    "count": 1
+  },
+  {
+    "occupation": "Q1410736",
+    "count": 1
+  },
+  {
+    "occupation": "Q3303199",
+    "count": 1
+  },
+  {
+    "occupation": "speleologist",
+    "count": 1
+  },
+  {
+    "occupation": "preparator",
+    "count": 1
+  },
+  {
+    "occupation": "Reverend",
+    "count": 1
+  },
+  {
+    "occupation": "professor of surgery",
+    "count": 1
+  },
+  {
+    "occupation": "postal worker",
+    "count": 1
+  },
+  {
+    "occupation": "comics writer",
+    "count": 1
+  },
+  {
+    "occupation": "chimney sweep",
+    "count": 1
+  },
+  {
+    "occupation": "city council",
+    "count": 1
+  },
+  {
+    "occupation": "type designer",
+    "count": 1
+  },
+  {
+    "occupation": "sports journalist",
+    "count": 1
+  },
+  {
+    "occupation": "law clerk",
+    "count": 1
+  },
+  {
+    "occupation": "undersecretary",
+    "count": 1
+  },
+  {
+    "occupation": "regular priest",
+    "count": 1
+  },
+  {
+    "occupation": "Chamberlain of Japan",
+    "count": 1
+  },
+  {
+    "occupation": "embroiderer",
+    "count": 1
+  },
+  {
+    "occupation": "photojournalist",
+    "count": 1
+  },
+  {
+    "occupation": "filmmaker",
+    "count": 1
+  },
+  {
+    "occupation": "costume designer",
+    "count": 1
+  },
+  {
+    "occupation": "Q10677161",
+    "count": 1
+  },
+  {
+    "occupation": "Q123058732",
+    "count": 1
+  },
+  {
+    "occupation": "ironmonger",
+    "count": 1
+  },
+  {
+    "occupation": "social politician",
+    "count": 1
+  },
+  {
+    "occupation": "egyptologist",
+    "count": 1
+  },
+  {
+    "occupation": "investment banker",
+    "count": 1
+  },
+  {
+    "occupation": "district president",
+    "count": 1
+  },
+  {
+    "occupation": "evangelist",
+    "count": 1
+  },
+  {
+    "occupation": "member of the French National Assembly",
+    "count": 1
+  },
+  {
+    "occupation": "ornamental sculptor",
+    "count": 1
+  },
+  {
+    "occupation": "special pedagogue",
+    "count": 1
+  },
+  {
+    "occupation": "badminton executive and administrator",
+    "count": 1
+  },
+  {
+    "occupation": "assistant secretary",
+    "count": 1
+  },
+  {
+    "occupation": "dressmaker",
+    "count": 1
+  },
+  {
+    "occupation": "magazine editor",
+    "count": 1
+  },
+  {
+    "occupation": "lifeguard",
+    "count": 1
+  },
+  {
+    "occupation": "competitive diver",
+    "count": 1
+  },
+  {
+    "occupation": "foreign correspondent",
+    "count": 1
+  },
+  {
+    "occupation": "professor of medicine",
+    "count": 1
+  },
+  {
+    "occupation": "museum registrar",
+    "count": 1
+  },
+  {
+    "occupation": "managing director",
+    "count": 1
+  },
+  {
+    "occupation": "manufacturing manager",
+    "count": 1
+  },
+  {
+    "occupation": "painter and varnisher",
+    "count": 1
+  },
+  {
+    "occupation": "colorist",
+    "count": 1
+  },
+  {
+    "occupation": "embetsperson",
+    "count": 1
+  },
+  {
+    "occupation": "demi-mondaine",
+    "count": 1
+  },
+  {
+    "occupation": "regional writer",
+    "count": 1
+  },
+  {
+    "occupation": "consort",
+    "count": 1
+  },
+  {
+    "occupation": "charity worker",
+    "count": 1
+  },
+  {
+    "occupation": "chinovnik",
+    "count": 1
+  },
+  {
+    "occupation": "industrial leader",
+    "count": 1
+  },
+  {
+    "occupation": "assessor",
+    "count": 1
+  },
+  {
+    "occupation": "rector",
+    "count": 1
+  },
+  {
+    "occupation": "music journalist",
+    "count": 1
+  },
+  {
+    "occupation": "Warden",
+    "count": 1
+  },
+  {
+    "occupation": "secretary of state",
+    "count": 1
+  },
+  {
+    "occupation": "volapükist",
+    "count": 1
+  },
+  {
+    "occupation": "shipbuilder",
+    "count": 1
+  },
+  {
+    "occupation": "hispanist",
+    "count": 1
+  },
+  {
+    "occupation": "law teacher",
+    "count": 1
+  },
+  {
+    "occupation": "instrument maker",
+    "count": 1
+  },
+  {
+    "occupation": "retail worker",
+    "count": 1
+  },
+  {
+    "occupation": "agricultural engineer",
+    "count": 1
+  },
+  {
+    "occupation": "King's Counsel",
+    "count": 1
+  },
+  {
+    "occupation": "handicrafter",
+    "count": 1
+  },
+  {
+    "occupation": "Mistress of the Robes",
+    "count": 1
+  },
+  {
+    "occupation": "shipbroker",
+    "count": 1
+  },
+  {
+    "occupation": "senator of the Russian Empire",
+    "count": 1
+  },
+  {
+    "occupation": "terrorist",
+    "count": 1
+  },
+  {
+    "occupation": "ethicist",
+    "count": 1
+  },
+  {
+    "occupation": "man of letters",
+    "count": 1
+  },
+  {
+    "occupation": "spiritual leader",
+    "count": 1
+  }
+]
